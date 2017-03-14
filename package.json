@@ -1,0 +1,26 @@
+{
+  "name": "letov-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Packagin' goes according to plan",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letov-io/letov-webpack-plugin.git"
+  },
+  "keywords": [
+    "Letov"
+  ],
+  "author": "fffuture",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/letov-io/letov-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/letov-io/letov-webpack-plugin#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "letov": "0.0.6"
+  }
+}
